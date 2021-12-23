@@ -1,0 +1,16 @@
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\p1.exe
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\p1.deps.json
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\p1.runtimeconfig.json
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\p1.runtimeconfig.dev.json
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\p1.dll
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\ref\p1.dll
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\bin\Debug\net5.0\p1.pdb
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.csproj.AssemblyReference.cache
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.AssemblyInfoInputs.cache
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.AssemblyInfo.cs
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.csproj.CoreCompileInputs.cache
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.dll
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\ref\p1.dll
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.pdb
+D:\DiscoDuro\CursoUnity\RepoPrueba\practica-prog\p1\obj\Debug\net5.0\p1.genruntimeconfig.cache
