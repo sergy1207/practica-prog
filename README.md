@@ -1,3 +1,3 @@
 # Practicas de programacion 1
 
-Hola mundo
+hola, en este repositorio subiré mis practicas de programación
